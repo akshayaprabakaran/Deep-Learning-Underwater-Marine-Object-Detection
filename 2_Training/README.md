@@ -22,5 +22,5 @@ Depending on your set-up, this process can take a few minutes to a few hours. Th
 
 If training is too slow on your local machine, consider using cloud computing services such as AWS to speed things up. To learn more about training on AWS navigate to [`TrainYourOwnYOLO/2_Training/AWS`](/2_Training/AWS).
 
-### That's all for training! 
+#### That's all for training! 
 Next, go to [`TrainYourOwnYOLO/3_Inference`](/3_Inference) to test your YOLO detector on new images!
