@@ -12,7 +12,7 @@ def GetFileList(dirName, endings=[".jpg", ".jpeg", ".png", ".mp4"]):
     # names in the given directory
     listOfFile = os.listdir(dirName)
     allFiles = list()
-    # Make sure all file endings start with a '.'
+    ## Make sure all file endings start with a '.'
 
     for i, ending in enumerate(endings):
         if ending[0] != ".":
